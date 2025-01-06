@@ -1,0 +1,7 @@
+well_id,num_spikes,mfr,isi_coeff,num_active_electrodes,weighted_mfr
+A1,357,0.018782,0.899733,3,0.372615
+A2,118,0.006208,1.204211,1,0.232323
+A3,1126,0.052983,1.562891,7,0.515152
+B1,0,0,NaN,0,NaN
+B2,0,0,NaN,0,NaN
+B3,0,0,NaN,0,NaN

@@ -1,0 +1,7 @@
+Well,num_bursts,num_bursting_electrodes,burst_dur_avg,burst_dur_std,num_spikes_per_burst_avg,num_spikes_per_burst_std,mean_isi_avg,mean_isi_std,median_isi_avg,median_isi_std,inter_burst_interval_avg,inter_burst_interval_std,burst_freq_avg,burst_freq_std,ibi_coeff_avg,ibi_coeff_std,burst_percent_avg,burst_percent_std
+A1,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+A2,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+A3,14,4,0.288347,0.113168,7.229167,3.857037,0.049949,0.009932,0.049167,0.013771,55.945247,50.405181,0.011785,0.007009,1.013904,0.512224,6.121683,11.952914
+B1,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+B2,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+B3,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
